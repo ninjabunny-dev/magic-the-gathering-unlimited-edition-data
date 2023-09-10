@@ -1,0 +1,107 @@
+---
+object: card
+id: f0313c44-d4ca-4021-866a-3d5cf58b0e76
+oracle_id: 39412e6d-2837-4729-abf9-e64a5ba87e40
+multiverse_ids:
+- 717
+tcgplayer_id: 9171
+cardmarket_id: 4773
+name: Power Sink
+lang: en
+released_at: '1993-12-01'
+uri: https://api.scryfall.com/cards/f0313c44-d4ca-4021-866a-3d5cf58b0e76
+scryfall_uri: https://scryfall.com/card/2ed/73/power-sink?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/0/f0313c44-d4ca-4021-866a-3d5cf58b0e76.jpg?1559592214
+  normal: https://cards.scryfall.io/normal/front/f/0/f0313c44-d4ca-4021-866a-3d5cf58b0e76.jpg?1559592214
+  large: https://cards.scryfall.io/large/front/f/0/f0313c44-d4ca-4021-866a-3d5cf58b0e76.jpg?1559592214
+  png: https://cards.scryfall.io/png/front/f/0/f0313c44-d4ca-4021-866a-3d5cf58b0e76.png?1559592214
+  art_crop: https://cards.scryfall.io/art_crop/front/f/0/f0313c44-d4ca-4021-866a-3d5cf58b0e76.jpg?1559592214
+  border_crop: https://cards.scryfall.io/border_crop/front/f/0/f0313c44-d4ca-4021-866a-3d5cf58b0e76.jpg?1559592214
+mana_cost: "{X}{U}"
+cmc: 1.0
+type_line: Instant
+oracle_text: Counter target spell unless its controller pays {X}. If that player doesn't,
+  they tap all lands with mana abilities they control and lose all unspent mana.
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: cd7694b9-339c-405d-a991-14413d4f6d5c
+set: 2ed
+set_name: Unlimited Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/cd7694b9-339c-405d-a991-14413d4f6d5c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A2ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/2ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/f0313c44-d4ca-4021-866a-3d5cf58b0e76/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A39412e6d-2837-4729-abf9-e64a5ba87e40&unique=prints
+collector_number: '73'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Richard Thomas
+artist_ids:
+- 596b3aac-b331-4e1e-ae41-9ec2d3b653e1
+illustration_id: 2c0f8da0-af8a-4e93-be82-4d4b164361a5
+border_color: white
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 7988
+penny_rank: 305
+prices:
+  usd: '1.22'
+  usd_foil: 
+  usd_etched: 
+  eur: '2.25'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=717
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Power+Sink&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Power+Sink&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Power+Sink
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/9171?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Power+Sink&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Power+Sink&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

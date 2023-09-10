@@ -1,0 +1,113 @@
+---
+object: card
+id: 747d4c99-0287-4138-af13-6244f33d2e57
+oracle_id: 375932e6-1b3e-48dc-8154-9b664c3add34
+multiverse_ids:
+- 671
+tcgplayer_id: 9152
+cardmarket_id: 4681
+name: Nightmare
+lang: en
+released_at: '1993-12-01'
+uri: https://api.scryfall.com/cards/747d4c99-0287-4138-af13-6244f33d2e57
+scryfall_uri: https://scryfall.com/card/2ed/119/nightmare?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/4/747d4c99-0287-4138-af13-6244f33d2e57.jpg?1559592232
+  normal: https://cards.scryfall.io/normal/front/7/4/747d4c99-0287-4138-af13-6244f33d2e57.jpg?1559592232
+  large: https://cards.scryfall.io/large/front/7/4/747d4c99-0287-4138-af13-6244f33d2e57.jpg?1559592232
+  png: https://cards.scryfall.io/png/front/7/4/747d4c99-0287-4138-af13-6244f33d2e57.png?1559592232
+  art_crop: https://cards.scryfall.io/art_crop/front/7/4/747d4c99-0287-4138-af13-6244f33d2e57.jpg?1559592232
+  border_crop: https://cards.scryfall.io/border_crop/front/7/4/747d4c99-0287-4138-af13-6244f33d2e57.jpg?1559592232
+mana_cost: "{5}{B}"
+cmc: 6.0
+type_line: Creature — Nightmare Horse
+oracle_text: |-
+  Flying (This creature can't be blocked except by creatures with flying or reach.)
+  Nightmare's power and toughness are each equal to the number of Swamps you control.
+power: "*"
+toughness: "*"
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: cd7694b9-339c-405d-a991-14413d4f6d5c
+set: 2ed
+set_name: Unlimited Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/cd7694b9-339c-405d-a991-14413d4f6d5c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A2ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/2ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/747d4c99-0287-4138-af13-6244f33d2e57/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A375932e6-1b3e-48dc-8154-9b664c3add34&unique=prints
+collector_number: '119'
+digital: false
+rarity: rare
+flavor_text: The Nightmare arises from its lair in the swamps. As the poisoned land
+  spreads, so does the Nightmare's rage and terrifying strength.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Melissa A. Benson
+artist_ids:
+- 9ade7727-1436-4828-9a1d-487c3d2ad1d9
+illustration_id: b47ac44f-33c0-4c6f-adc0-fe066c4afa83
+border_color: white
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 10585
+penny_rank: 8339
+prices:
+  usd: '66.98'
+  usd_foil: 
+  usd_etched: 
+  eur: '27.95'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=671
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Nightmare&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Nightmare&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Nightmare
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/9152?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Nightmare&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Nightmare&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

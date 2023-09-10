@@ -1,0 +1,109 @@
+---
+object: card
+id: a274a381-4eb0-4e27-aff4-4d94e61b726a
+oracle_id: 05ac866d-0405-4d25-986a-c10fcfc097e6
+multiverse_ids:
+- 617
+tcgplayer_id: 9094
+cardmarket_id: 5129
+name: Illusionary Mask
+lang: en
+released_at: '1993-12-01'
+uri: https://api.scryfall.com/cards/a274a381-4eb0-4e27-aff4-4d94e61b726a
+scryfall_uri: https://scryfall.com/card/2ed/250/illusionary-mask?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/2/a274a381-4eb0-4e27-aff4-4d94e61b726a.jpg?1559591826
+  normal: https://cards.scryfall.io/normal/front/a/2/a274a381-4eb0-4e27-aff4-4d94e61b726a.jpg?1559591826
+  large: https://cards.scryfall.io/large/front/a/2/a274a381-4eb0-4e27-aff4-4d94e61b726a.jpg?1559591826
+  png: https://cards.scryfall.io/png/front/a/2/a274a381-4eb0-4e27-aff4-4d94e61b726a.png?1559591826
+  art_crop: https://cards.scryfall.io/art_crop/front/a/2/a274a381-4eb0-4e27-aff4-4d94e61b726a.jpg?1559591826
+  border_crop: https://cards.scryfall.io/border_crop/front/a/2/a274a381-4eb0-4e27-aff4-4d94e61b726a.jpg?1559591826
+mana_cost: "{2}"
+cmc: 2.0
+type_line: Artifact
+oracle_text: "{X}: You may choose a creature card in your hand whose mana cost could
+  be paid by some amount of, or all of, the mana you spent on {X}. If you do, you
+  may cast that card face down as a 2/2 creature spell without paying its mana cost.
+  If the creature that spell becomes as it resolves has not been turned face up and
+  would assign or deal damage, be dealt damage, or become tapped, instead it's turned
+  face up and assigns or deals damage, is dealt damage, or becomes tapped. Activate
+  only as a sorcery."
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: true
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: cd7694b9-339c-405d-a991-14413d4f6d5c
+set: 2ed
+set_name: Unlimited Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/cd7694b9-339c-405d-a991-14413d4f6d5c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A2ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/2ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a274a381-4eb0-4e27-aff4-4d94e61b726a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A05ac866d-0405-4d25-986a-c10fcfc097e6&unique=prints
+collector_number: '250'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Amy Weber
+artist_ids:
+- c1160787-e72e-4f89-b361-c6864f7a4e3a
+illustration_id: 3a98e8c0-60a2-488e-9acf-7429af62e40e
+border_color: white
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 20716
+prices:
+  usd: '225.00'
+  usd_foil: 
+  usd_etched: 
+  eur: '120.00'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=617
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Illusionary+Mask&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Illusionary+Mask&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Illusionary+Mask
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/9094?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Illusionary+Mask&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Illusionary+Mask&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,112 @@
+---
+object: card
+id: 7281e17d-a6e0-4e0e-8ee6-c6d9dec54231
+oracle_id: 95a0ca48-d924-47f4-86ed-42c673ee778c
+multiverse_ids:
+- 866
+tcgplayer_id: 9191
+cardmarket_id: 5071
+name: Samite Healer
+lang: en
+released_at: '1993-12-01'
+uri: https://api.scryfall.com/cards/7281e17d-a6e0-4e0e-8ee6-c6d9dec54231
+scryfall_uri: https://scryfall.com/card/2ed/38/samite-healer?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/2/7281e17d-a6e0-4e0e-8ee6-c6d9dec54231.jpg?1559591841
+  normal: https://cards.scryfall.io/normal/front/7/2/7281e17d-a6e0-4e0e-8ee6-c6d9dec54231.jpg?1559591841
+  large: https://cards.scryfall.io/large/front/7/2/7281e17d-a6e0-4e0e-8ee6-c6d9dec54231.jpg?1559591841
+  png: https://cards.scryfall.io/png/front/7/2/7281e17d-a6e0-4e0e-8ee6-c6d9dec54231.png?1559591841
+  art_crop: https://cards.scryfall.io/art_crop/front/7/2/7281e17d-a6e0-4e0e-8ee6-c6d9dec54231.jpg?1559591841
+  border_crop: https://cards.scryfall.io/border_crop/front/7/2/7281e17d-a6e0-4e0e-8ee6-c6d9dec54231.jpg?1559591841
+mana_cost: "{1}{W}"
+cmc: 2.0
+type_line: Creature — Human Cleric
+oracle_text: "{T}: Prevent the next 1 damage that would be dealt to any target this
+  turn."
+power: '1'
+toughness: '1'
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: cd7694b9-339c-405d-a991-14413d4f6d5c
+set: 2ed
+set_name: Unlimited Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/cd7694b9-339c-405d-a991-14413d4f6d5c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A2ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/2ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/7281e17d-a6e0-4e0e-8ee6-c6d9dec54231/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A95a0ca48-d924-47f4-86ed-42c673ee778c&unique=prints
+collector_number: '38'
+digital: false
+rarity: common
+flavor_text: Healers ultimately acquire the divine gifts of spiritual and physical
+  wholeness. The most devout are also granted the ability to pass physical wholeness
+  on to others.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Tom Wänerstrand
+artist_ids:
+- c4e0aa7c-a008-4d71-80ce-d5a1ca0b251b
+illustration_id: 044ee33d-deaa-4cdb-9e5f-f71d5cef572f
+border_color: white
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 22641
+penny_rank: 12174
+prices:
+  usd: '0.43'
+  usd_foil: 
+  usd_etched: 
+  eur: '1.19'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=866
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Samite+Healer&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Samite+Healer&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Samite+Healer
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/9191?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Samite+Healer&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Samite+Healer&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

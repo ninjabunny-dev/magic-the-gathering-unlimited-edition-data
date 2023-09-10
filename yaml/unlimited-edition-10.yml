@@ -1,0 +1,107 @@
+---
+object: card
+id: 1eea1199-6b07-430c-b100-c5825a23d8b0
+oracle_id: 7a5a8414-4da4-4dd0-93ae-210d50f4d6f6
+multiverse_ids:
+- 838
+tcgplayer_id: 9005
+cardmarket_id: 5015
+name: 'Circle of Protection: Black'
+lang: en
+released_at: '1993-12-01'
+uri: https://api.scryfall.com/cards/1eea1199-6b07-430c-b100-c5825a23d8b0
+scryfall_uri: https://scryfall.com/card/2ed/10/circle-of-protection:-black?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/e/1eea1199-6b07-430c-b100-c5825a23d8b0.jpg?1559592121
+  normal: https://cards.scryfall.io/normal/front/1/e/1eea1199-6b07-430c-b100-c5825a23d8b0.jpg?1559592121
+  large: https://cards.scryfall.io/large/front/1/e/1eea1199-6b07-430c-b100-c5825a23d8b0.jpg?1559592121
+  png: https://cards.scryfall.io/png/front/1/e/1eea1199-6b07-430c-b100-c5825a23d8b0.png?1559592121
+  art_crop: https://cards.scryfall.io/art_crop/front/1/e/1eea1199-6b07-430c-b100-c5825a23d8b0.jpg?1559592121
+  border_crop: https://cards.scryfall.io/border_crop/front/1/e/1eea1199-6b07-430c-b100-c5825a23d8b0.jpg?1559592121
+mana_cost: "{1}{W}"
+cmc: 2.0
+type_line: Enchantment
+oracle_text: "{1}: The next time a black source of your choice would deal damage to
+  you this turn, prevent that damage."
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: cd7694b9-339c-405d-a991-14413d4f6d5c
+set: 2ed
+set_name: Unlimited Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/cd7694b9-339c-405d-a991-14413d4f6d5c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A2ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/2ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/1eea1199-6b07-430c-b100-c5825a23d8b0/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7a5a8414-4da4-4dd0-93ae-210d50f4d6f6&unique=prints
+collector_number: '10'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jesper Myrfors
+artist_ids:
+- c011318e-8503-48c1-a990-46e50aff48a0
+illustration_id: 5754c874-9b33-4b64-834b-1babb6eacfc8
+border_color: white
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 16132
+penny_rank: 14684
+prices:
+  usd: '0.74'
+  usd_foil: 
+  usd_etched: 
+  eur: '1.19'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=838
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Circle+of+Protection%3A+Black&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Circle+of+Protection%3A+Black&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Circle+of+Protection%3A+Black
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/9005?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Circle+of+Protection%3A+Black&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Circle+of+Protection%3A+Black&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

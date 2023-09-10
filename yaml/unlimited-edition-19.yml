@@ -1,0 +1,106 @@
+---
+object: card
+id: 73636b95-103d-43c8-bc96-63fad0da34dd
+oracle_id: a7e97fa9-4b72-4548-b854-5be5f18a6f1a
+multiverse_ids:
+- 847
+tcgplayer_id: 9036
+cardmarket_id: 5033
+name: Disenchant
+lang: en
+released_at: '1993-12-01'
+uri: https://api.scryfall.com/cards/73636b95-103d-43c8-bc96-63fad0da34dd
+scryfall_uri: https://scryfall.com/card/2ed/19/disenchant?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/3/73636b95-103d-43c8-bc96-63fad0da34dd.jpg?1559592099
+  normal: https://cards.scryfall.io/normal/front/7/3/73636b95-103d-43c8-bc96-63fad0da34dd.jpg?1559592099
+  large: https://cards.scryfall.io/large/front/7/3/73636b95-103d-43c8-bc96-63fad0da34dd.jpg?1559592099
+  png: https://cards.scryfall.io/png/front/7/3/73636b95-103d-43c8-bc96-63fad0da34dd.png?1559592099
+  art_crop: https://cards.scryfall.io/art_crop/front/7/3/73636b95-103d-43c8-bc96-63fad0da34dd.jpg?1559592099
+  border_crop: https://cards.scryfall.io/border_crop/front/7/3/73636b95-103d-43c8-bc96-63fad0da34dd.jpg?1559592099
+mana_cost: "{1}{W}"
+cmc: 2.0
+type_line: Instant
+oracle_text: Destroy target artifact or enchantment.
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: legal
+  future: legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: legal
+  historicbrawl: legal
+  alchemy: legal
+  paupercommander: legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: cd7694b9-339c-405d-a991-14413d4f6d5c
+set: 2ed
+set_name: Unlimited Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/cd7694b9-339c-405d-a991-14413d4f6d5c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A2ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/2ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/73636b95-103d-43c8-bc96-63fad0da34dd/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa7e97fa9-4b72-4548-b854-5be5f18a6f1a&unique=prints
+collector_number: '19'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Amy Weber
+artist_ids:
+- c1160787-e72e-4f89-b361-c6864f7a4e3a
+illustration_id: e2240317-2d02-4e7f-8392-019f68339e6e
+border_color: white
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 745
+penny_rank: 4493
+prices:
+  usd: '5.49'
+  usd_foil: 
+  usd_etched: 
+  eur: '8.90'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=847
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Disenchant&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Disenchant&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Disenchant
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/9036?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Disenchant&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Disenchant&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

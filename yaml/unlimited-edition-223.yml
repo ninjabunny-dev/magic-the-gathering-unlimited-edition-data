@@ -1,0 +1,110 @@
+---
+object: card
+id: 55454150-de1b-4921-9c23-7d10724c2ee7
+oracle_id: cd98a31b-cc7e-43f9-982e-109ad9850908
+multiverse_ids:
+- 775
+tcgplayer_id: 9244
+cardmarket_id: 4889
+name: Verduran Enchantress
+lang: en
+released_at: '1993-12-01'
+uri: https://api.scryfall.com/cards/55454150-de1b-4921-9c23-7d10724c2ee7
+scryfall_uri: https://scryfall.com/card/2ed/223/verduran-enchantress?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/5/55454150-de1b-4921-9c23-7d10724c2ee7.jpg?1559591920
+  normal: https://cards.scryfall.io/normal/front/5/5/55454150-de1b-4921-9c23-7d10724c2ee7.jpg?1559591920
+  large: https://cards.scryfall.io/large/front/5/5/55454150-de1b-4921-9c23-7d10724c2ee7.jpg?1559591920
+  png: https://cards.scryfall.io/png/front/5/5/55454150-de1b-4921-9c23-7d10724c2ee7.png?1559591920
+  art_crop: https://cards.scryfall.io/art_crop/front/5/5/55454150-de1b-4921-9c23-7d10724c2ee7.jpg?1559591920
+  border_crop: https://cards.scryfall.io/border_crop/front/5/5/55454150-de1b-4921-9c23-7d10724c2ee7.jpg?1559591920
+mana_cost: "{1}{G}{G}"
+cmc: 3.0
+type_line: Creature — Human Druid
+oracle_text: Whenever you cast an enchantment spell, you may draw a card.
+power: '0'
+toughness: '2'
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: cd7694b9-339c-405d-a991-14413d4f6d5c
+set: 2ed
+set_name: Unlimited Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/cd7694b9-339c-405d-a991-14413d4f6d5c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A2ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/2ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/55454150-de1b-4921-9c23-7d10724c2ee7/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acd98a31b-cc7e-43f9-982e-109ad9850908&unique=prints
+collector_number: '223'
+digital: false
+rarity: rare
+flavor_text: Some say magic was first practiced by women, who have always felt strong
+  ties to the land.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Kev Brockschmidt
+artist_ids:
+- 6c0e6eb2-d659-49c4-9df9-ca4007b34719
+illustration_id: 99973f4c-6230-45ef-b5ad-f485eea0de27
+border_color: white
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 1427
+penny_rank: 4051
+prices:
+  usd: '54.96'
+  usd_foil: 
+  usd_etched: 
+  eur: '41.95'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=775
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Verduran+Enchantress&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Verduran+Enchantress&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Verduran+Enchantress
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/9244?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Verduran+Enchantress&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Verduran+Enchantress&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

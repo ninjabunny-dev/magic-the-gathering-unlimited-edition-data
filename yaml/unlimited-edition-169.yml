@@ -1,0 +1,109 @@
+---
+object: card
+id: 7ee63877-056e-413d-932a-a393a4183686
+oracle_id: a2310312-6e1e-4e34-a351-9aef499a810f
+multiverse_ids:
+- 813
+tcgplayer_id: 9177
+cardmarket_id: 4965
+name: Raging River
+lang: en
+released_at: '1993-12-01'
+uri: https://api.scryfall.com/cards/7ee63877-056e-413d-932a-a393a4183686
+scryfall_uri: https://scryfall.com/card/2ed/169/raging-river?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/e/7ee63877-056e-413d-932a-a393a4183686.jpg?1559592211
+  normal: https://cards.scryfall.io/normal/front/7/e/7ee63877-056e-413d-932a-a393a4183686.jpg?1559592211
+  large: https://cards.scryfall.io/large/front/7/e/7ee63877-056e-413d-932a-a393a4183686.jpg?1559592211
+  png: https://cards.scryfall.io/png/front/7/e/7ee63877-056e-413d-932a-a393a4183686.png?1559592211
+  art_crop: https://cards.scryfall.io/art_crop/front/7/e/7ee63877-056e-413d-932a-a393a4183686.jpg?1559592211
+  border_crop: https://cards.scryfall.io/border_crop/front/7/e/7ee63877-056e-413d-932a-a393a4183686.jpg?1559592211
+mana_cost: "{R}{R}"
+cmc: 2.0
+type_line: Enchantment
+oracle_text: Whenever one or more creatures you control attack, each defending player
+  divides all creatures without flying they control into a "left" pile and a "right"
+  pile. Then, for each attacking creature you control, choose "left" or "right." That
+  creature can't be blocked this combat except by creatures with flying and creatures
+  in a pile with the chosen label.
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: true
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: cd7694b9-339c-405d-a991-14413d4f6d5c
+set: 2ed
+set_name: Unlimited Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/cd7694b9-339c-405d-a991-14413d4f6d5c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A2ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/2ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/7ee63877-056e-413d-932a-a393a4183686/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa2310312-6e1e-4e34-a351-9aef499a810f&unique=prints
+collector_number: '169'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Sandra Everingham
+artist_ids:
+- 8a8ac2c8-84c9-4274-9960-a19a97f0bde5
+illustration_id: 378d7247-360c-4ecb-b444-95d8bb1a5dd5
+border_color: white
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 16459
+prices:
+  usd: '217.07'
+  usd_foil: 
+  usd_etched: 
+  eur: '259.00'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=813
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Raging+River&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Raging+River&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Raging+River
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/9177?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Raging+River&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Raging+River&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

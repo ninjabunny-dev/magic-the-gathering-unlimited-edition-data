@@ -1,0 +1,114 @@
+---
+object: card
+id: 5a30ed3f-0b21-45ea-83af-339249b4e93e
+oracle_id: a6a43190-cca2-4f07-afe9-8af681d777da
+multiverse_ids:
+- 817
+tcgplayer_id: 9199
+cardmarket_id: 4973
+name: Sedge Troll
+lang: en
+released_at: '1993-12-01'
+uri: https://api.scryfall.com/cards/5a30ed3f-0b21-45ea-83af-339249b4e93e
+scryfall_uri: https://scryfall.com/card/2ed/173/sedge-troll?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/a/5a30ed3f-0b21-45ea-83af-339249b4e93e.jpg?1559592206
+  normal: https://cards.scryfall.io/normal/front/5/a/5a30ed3f-0b21-45ea-83af-339249b4e93e.jpg?1559592206
+  large: https://cards.scryfall.io/large/front/5/a/5a30ed3f-0b21-45ea-83af-339249b4e93e.jpg?1559592206
+  png: https://cards.scryfall.io/png/front/5/a/5a30ed3f-0b21-45ea-83af-339249b4e93e.png?1559592206
+  art_crop: https://cards.scryfall.io/art_crop/front/5/a/5a30ed3f-0b21-45ea-83af-339249b4e93e.jpg?1559592206
+  border_crop: https://cards.scryfall.io/border_crop/front/5/a/5a30ed3f-0b21-45ea-83af-339249b4e93e.jpg?1559592206
+mana_cost: "{2}{R}"
+cmc: 3.0
+type_line: Creature — Troll
+oracle_text: |-
+  Sedge Troll gets +1/+1 as long as you control a Swamp.
+  {B}: Regenerate Sedge Troll.
+power: '2'
+toughness: '2'
+colors:
+- R
+color_identity:
+- B
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: true
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: cd7694b9-339c-405d-a991-14413d4f6d5c
+set: 2ed
+set_name: Unlimited Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/cd7694b9-339c-405d-a991-14413d4f6d5c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A2ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/2ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/5a30ed3f-0b21-45ea-83af-339249b4e93e/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa6a43190-cca2-4f07-afe9-8af681d777da&unique=prints
+collector_number: '173'
+digital: false
+rarity: rare
+flavor_text: The stench in the hovel was overpowering; something loathsome was cooking.
+  Occasionally something surfaced in the thick paste, but my host would casually push
+  it down before I could make out what it was.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Dan Frazier
+artist_ids:
+- '059bba56-5feb-42e4-8c2e-e2f1e6ba11f9'
+illustration_id: c41945da-26c2-4bf7-aa00-32502121da7b
+border_color: white
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 23286
+penny_rank: 12229
+prices:
+  usd: '114.81'
+  usd_foil: 
+  usd_etched: 
+  eur: '75.00'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=817
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Sedge+Troll&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Sedge+Troll&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Sedge+Troll
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/9199?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sedge+Troll&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sedge+Troll&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

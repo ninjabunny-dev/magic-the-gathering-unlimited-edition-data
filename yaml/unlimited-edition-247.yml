@@ -1,0 +1,107 @@
+---
+object: card
+id: b0d2c643-39cc-47f8-9f70-327f004c1373
+oracle_id: 948e3bb7-8265-4e95-acd1-a0c4f22441df
+multiverse_ids:
+- 614
+tcgplayer_id: 9083
+cardmarket_id: 5121
+name: Helm of Chatzuk
+lang: en
+released_at: '1993-12-01'
+uri: https://api.scryfall.com/cards/b0d2c643-39cc-47f8-9f70-327f004c1373
+scryfall_uri: https://scryfall.com/card/2ed/247/helm-of-chatzuk?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/0/b0d2c643-39cc-47f8-9f70-327f004c1373.jpg?1559591914
+  normal: https://cards.scryfall.io/normal/front/b/0/b0d2c643-39cc-47f8-9f70-327f004c1373.jpg?1559591914
+  large: https://cards.scryfall.io/large/front/b/0/b0d2c643-39cc-47f8-9f70-327f004c1373.jpg?1559591914
+  png: https://cards.scryfall.io/png/front/b/0/b0d2c643-39cc-47f8-9f70-327f004c1373.png?1559591914
+  art_crop: https://cards.scryfall.io/art_crop/front/b/0/b0d2c643-39cc-47f8-9f70-327f004c1373.jpg?1559591914
+  border_crop: https://cards.scryfall.io/border_crop/front/b/0/b0d2c643-39cc-47f8-9f70-327f004c1373.jpg?1559591914
+mana_cost: "{1}"
+cmc: 1.0
+type_line: Artifact
+oracle_text: "{1}, {T}: Target creature gains banding until end of turn. (Any creatures
+  with banding, and up to one without, can attack in a band. Bands are blocked as
+  a group. If any creatures with banding a player controls are blocking or being blocked
+  by a creature, that player divides that creature's combat damage, not its controller,
+  among any of the creatures it's being blocked by or is blocking.)"
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: cd7694b9-339c-405d-a991-14413d4f6d5c
+set: 2ed
+set_name: Unlimited Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/cd7694b9-339c-405d-a991-14413d4f6d5c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A2ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/2ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/b0d2c643-39cc-47f8-9f70-327f004c1373/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A948e3bb7-8265-4e95-acd1-a0c4f22441df&unique=prints
+collector_number: '247'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Mark Tedin
+artist_ids:
+- 9ee9a9cc-c09e-486f-918b-69f80cbc4188
+illustration_id: e9c29813-b464-4f6d-836f-ae74b0674a8e
+border_color: white
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 15359
+prices:
+  usd: '32.43'
+  usd_foil: 
+  usd_etched: 
+  eur: '9.99'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=614
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Helm+of+Chatzuk&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Helm+of+Chatzuk&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Helm+of+Chatzuk
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/9083?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Helm+of+Chatzuk&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Helm+of+Chatzuk&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,106 @@
+---
+object: card
+id: 4fbb25bc-7071-40eb-bea6-16387db164a7
+oracle_id: 65a9f643-063f-406a-8d5a-5ebbe0f04c3d
+multiverse_ids:
+- 655
+tcgplayer_id: 9032
+cardmarket_id: 4649
+name: Demonic Attorney
+lang: en
+released_at: '1993-12-01'
+uri: https://api.scryfall.com/cards/4fbb25bc-7071-40eb-bea6-16387db164a7
+scryfall_uri: https://scryfall.com/card/2ed/103/demonic-attorney?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/f/4fbb25bc-7071-40eb-bea6-16387db164a7.jpg?1559591812
+  normal: https://cards.scryfall.io/normal/front/4/f/4fbb25bc-7071-40eb-bea6-16387db164a7.jpg?1559591812
+  large: https://cards.scryfall.io/large/front/4/f/4fbb25bc-7071-40eb-bea6-16387db164a7.jpg?1559591812
+  png: https://cards.scryfall.io/png/front/4/f/4fbb25bc-7071-40eb-bea6-16387db164a7.png?1559591812
+  art_crop: https://cards.scryfall.io/art_crop/front/4/f/4fbb25bc-7071-40eb-bea6-16387db164a7.jpg?1559591812
+  border_crop: https://cards.scryfall.io/border_crop/front/4/f/4fbb25bc-7071-40eb-bea6-16387db164a7.jpg?1559591812
+mana_cost: "{1}{B}{B}"
+cmc: 3.0
+type_line: Sorcery
+oracle_text: |-
+  Remove Demonic Attorney from your deck before playing if you're not playing for ante.
+  Each player antes the top card of their library.
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: banned
+  pauper: not_legal
+  vintage: banned
+  penny: not_legal
+  commander: banned
+  oathbreaker: banned
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: banned
+  oldschool: banned
+  premodern: not_legal
+  predh: banned
+games:
+- paper
+reserved: true
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: cd7694b9-339c-405d-a991-14413d4f6d5c
+set: 2ed
+set_name: Unlimited Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/cd7694b9-339c-405d-a991-14413d4f6d5c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A2ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/2ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/4fbb25bc-7071-40eb-bea6-16387db164a7/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A65a9f643-063f-406a-8d5a-5ebbe0f04c3d&unique=prints
+collector_number: '103'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Daniel Gelon
+artist_ids:
+- 63ac31a8-dd1a-4679-9f82-ece89429a084
+illustration_id: c53deb39-7c44-4904-9ac6-e53638494c0c
+border_color: white
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+prices:
+  usd: '44.12'
+  usd_foil: 
+  usd_etched: 
+  eur: '18.95'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=655
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Demonic+Attorney&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Demonic+Attorney&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Demonic+Attorney
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/9032?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Demonic+Attorney&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Demonic+Attorney&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

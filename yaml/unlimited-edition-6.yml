@@ -1,0 +1,107 @@
+---
+object: card
+id: 2d636573-287d-4f6f-93b0-12ddd8f3e6d1
+oracle_id: b330ac89-790e-4cc9-96a5-532c48252088
+multiverse_ids:
+- 834
+tcgplayer_id: 8992
+cardmarket_id: 5007
+name: Blaze of Glory
+lang: en
+released_at: '1993-12-01'
+uri: https://api.scryfall.com/cards/2d636573-287d-4f6f-93b0-12ddd8f3e6d1
+scryfall_uri: https://scryfall.com/card/2ed/6/blaze-of-glory?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/d/2d636573-287d-4f6f-93b0-12ddd8f3e6d1.jpg?1559591860
+  normal: https://cards.scryfall.io/normal/front/2/d/2d636573-287d-4f6f-93b0-12ddd8f3e6d1.jpg?1559591860
+  large: https://cards.scryfall.io/large/front/2/d/2d636573-287d-4f6f-93b0-12ddd8f3e6d1.jpg?1559591860
+  png: https://cards.scryfall.io/png/front/2/d/2d636573-287d-4f6f-93b0-12ddd8f3e6d1.png?1559591860
+  art_crop: https://cards.scryfall.io/art_crop/front/2/d/2d636573-287d-4f6f-93b0-12ddd8f3e6d1.jpg?1559591860
+  border_crop: https://cards.scryfall.io/border_crop/front/2/d/2d636573-287d-4f6f-93b0-12ddd8f3e6d1.jpg?1559591860
+mana_cost: "{W}"
+cmc: 1.0
+type_line: Instant
+oracle_text: |-
+  Cast this spell only during combat before blockers are declared.
+  Target creature defending player controls can block any number of creatures this turn. It blocks each attacking creature this turn if able.
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: true
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: cd7694b9-339c-405d-a991-14413d4f6d5c
+set: 2ed
+set_name: Unlimited Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/cd7694b9-339c-405d-a991-14413d4f6d5c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A2ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/2ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/2d636573-287d-4f6f-93b0-12ddd8f3e6d1/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab330ac89-790e-4cc9-96a5-532c48252088&unique=prints
+collector_number: '6'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Richard Thomas
+artist_ids:
+- 596b3aac-b331-4e1e-ae41-9ec2d3b653e1
+illustration_id: 56312255-8f0a-4d76-bf76-7e39dcf27a65
+border_color: white
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 20649
+prices:
+  usd: '149.03'
+  usd_foil: 
+  usd_etched: 
+  eur: '49.87'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=834
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Blaze+of+Glory&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Blaze+of+Glory&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Blaze+of+Glory
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/8992?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Blaze+of+Glory&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Blaze+of+Glory&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

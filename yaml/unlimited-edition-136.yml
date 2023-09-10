@@ -1,0 +1,117 @@
+---
+object: card
+id: 73a2a070-464e-4749-87f1-2df5c8b2a93b
+oracle_id: 8b60fcfe-fb90-4a00-a708-25b59bfc9b5a
+multiverse_ids:
+- 688
+tcgplayer_id: 9268
+cardmarket_id: 4715
+name: Will-o'-the-Wisp
+lang: en
+released_at: '1993-12-01'
+uri: https://api.scryfall.com/cards/73a2a070-464e-4749-87f1-2df5c8b2a93b
+scryfall_uri: https://scryfall.com/card/2ed/136/will-o-the-wisp?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/3/73a2a070-464e-4749-87f1-2df5c8b2a93b.jpg?1587930971
+  normal: https://cards.scryfall.io/normal/front/7/3/73a2a070-464e-4749-87f1-2df5c8b2a93b.jpg?1587930971
+  large: https://cards.scryfall.io/large/front/7/3/73a2a070-464e-4749-87f1-2df5c8b2a93b.jpg?1587930971
+  png: https://cards.scryfall.io/png/front/7/3/73a2a070-464e-4749-87f1-2df5c8b2a93b.png?1587930971
+  art_crop: https://cards.scryfall.io/art_crop/front/7/3/73a2a070-464e-4749-87f1-2df5c8b2a93b.jpg?1587930971
+  border_crop: https://cards.scryfall.io/border_crop/front/7/3/73a2a070-464e-4749-87f1-2df5c8b2a93b.jpg?1587930971
+mana_cost: "{B}"
+cmc: 1.0
+type_line: Creature — Spirit
+oracle_text: |-
+  Flying (This creature can't be blocked except by creatures with flying or reach.)
+  {B}: Regenerate Will-o'-the-Wisp. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+power: '0'
+toughness: '1'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: cd7694b9-339c-405d-a991-14413d4f6d5c
+set: 2ed
+set_name: Unlimited Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/cd7694b9-339c-405d-a991-14413d4f6d5c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A2ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/2ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/73a2a070-464e-4749-87f1-2df5c8b2a93b/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8b60fcfe-fb90-4a00-a708-25b59bfc9b5a&unique=prints
+collector_number: '136'
+digital: false
+rarity: rare
+flavor_text: |-
+  "About, about in reel and rout
+  The death-fires danced at night;
+  The water, like a witch's oils,
+  Burnt green, and blue and white."
+  —Samuel Coleridge, "The Rime of the Ancient Mariner"
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jesper Myrfors
+artist_ids:
+- c011318e-8503-48c1-a990-46e50aff48a0
+illustration_id: 9d133a85-1174-477a-beae-32373e8d71ee
+border_color: white
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 11095
+penny_rank: 13769
+prices:
+  usd: '50.96'
+  usd_foil: 
+  usd_etched: 
+  eur: '31.44'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=688
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Will-o%27-the-Wisp&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Will-o%27-the-Wisp&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Will-o%27-the-Wisp
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/9268?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Will-o%27-the-Wisp&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Will-o%27-the-Wisp&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

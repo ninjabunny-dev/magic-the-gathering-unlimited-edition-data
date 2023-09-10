@@ -1,0 +1,109 @@
+---
+object: card
+id: df03759e-17a0-4191-bd4d-e823846924ce
+oracle_id: 342199e0-15b6-4824-83da-25caef2592b3
+multiverse_ids:
+- 802
+tcgplayer_id: 9084
+cardmarket_id: 4943
+name: Hill Giant
+lang: en
+released_at: '1993-12-01'
+uri: https://api.scryfall.com/cards/df03759e-17a0-4191-bd4d-e823846924ce
+scryfall_uri: https://scryfall.com/card/2ed/158/hill-giant?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/f/df03759e-17a0-4191-bd4d-e823846924ce.jpg?1559591937
+  normal: https://cards.scryfall.io/normal/front/d/f/df03759e-17a0-4191-bd4d-e823846924ce.jpg?1559591937
+  large: https://cards.scryfall.io/large/front/d/f/df03759e-17a0-4191-bd4d-e823846924ce.jpg?1559591937
+  png: https://cards.scryfall.io/png/front/d/f/df03759e-17a0-4191-bd4d-e823846924ce.png?1559591937
+  art_crop: https://cards.scryfall.io/art_crop/front/d/f/df03759e-17a0-4191-bd4d-e823846924ce.jpg?1559591937
+  border_crop: https://cards.scryfall.io/border_crop/front/d/f/df03759e-17a0-4191-bd4d-e823846924ce.jpg?1559591937
+mana_cost: "{3}{R}"
+cmc: 4.0
+type_line: Creature — Giant
+oracle_text: ''
+power: '3'
+toughness: '3'
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: cd7694b9-339c-405d-a991-14413d4f6d5c
+set: 2ed
+set_name: Unlimited Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/cd7694b9-339c-405d-a991-14413d4f6d5c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A2ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/2ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/df03759e-17a0-4191-bd4d-e823846924ce/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A342199e0-15b6-4824-83da-25caef2592b3&unique=prints
+collector_number: '158'
+digital: false
+rarity: common
+flavor_text: Fortunately, Hill Giants have large blind spots in which a human can
+  easily hide. Unfortunately, these blind spots are beneath the bottoms of their feet.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Dan Frazier
+artist_ids:
+- '059bba56-5feb-42e4-8c2e-e2f1e6ba11f9'
+illustration_id: df62a58e-3746-4db5-98e3-358158fffc20
+border_color: white
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 23307
+prices:
+  usd: '0.65'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.85'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=802
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Hill+Giant&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Hill+Giant&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Hill+Giant
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/9084?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Hill+Giant&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Hill+Giant&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

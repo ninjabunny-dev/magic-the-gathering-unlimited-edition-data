@@ -1,0 +1,105 @@
+---
+object: card
+id: 4407fb95-0ed2-4c95-91b9-09eb52bf537e
+oracle_id: a8abd966-de7b-46a3-8ac7-8747ab35653a
+multiverse_ids:
+- 828
+tcgplayer_id: 9264
+cardmarket_id: 4995
+name: Wheel of Fortune
+lang: en
+released_at: '1993-12-01'
+uri: https://api.scryfall.com/cards/4407fb95-0ed2-4c95-91b9-09eb52bf537e
+scryfall_uri: https://scryfall.com/card/2ed/184/wheel-of-fortune?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/4/4407fb95-0ed2-4c95-91b9-09eb52bf537e.jpg?1559591976
+  normal: https://cards.scryfall.io/normal/front/4/4/4407fb95-0ed2-4c95-91b9-09eb52bf537e.jpg?1559591976
+  large: https://cards.scryfall.io/large/front/4/4/4407fb95-0ed2-4c95-91b9-09eb52bf537e.jpg?1559591976
+  png: https://cards.scryfall.io/png/front/4/4/4407fb95-0ed2-4c95-91b9-09eb52bf537e.png?1559591976
+  art_crop: https://cards.scryfall.io/art_crop/front/4/4/4407fb95-0ed2-4c95-91b9-09eb52bf537e.jpg?1559591976
+  border_crop: https://cards.scryfall.io/border_crop/front/4/4/4407fb95-0ed2-4c95-91b9-09eb52bf537e.jpg?1559591976
+mana_cost: "{2}{R}"
+cmc: 3.0
+type_line: Sorcery
+oracle_text: Each player discards their hand, then draws seven cards.
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: banned
+  pauper: not_legal
+  vintage: restricted
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: restricted
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: true
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: cd7694b9-339c-405d-a991-14413d4f6d5c
+set: 2ed
+set_name: Unlimited Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/cd7694b9-339c-405d-a991-14413d4f6d5c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A2ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/2ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/4407fb95-0ed2-4c95-91b9-09eb52bf537e/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa8abd966-de7b-46a3-8ac7-8747ab35653a&unique=prints
+collector_number: '184'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Daniel Gelon
+artist_ids:
+- 63ac31a8-dd1a-4679-9f82-ece89429a084
+illustration_id: 2374c264-9c65-4961-84e4-ec44c241355c
+border_color: white
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 531
+prices:
+  usd: '420.00'
+  usd_foil: 
+  usd_etched: 
+  eur: '649.99'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=828
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Wheel+of+Fortune&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Wheel+of+Fortune&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Wheel+of+Fortune
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/9264?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Wheel+of+Fortune&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Wheel+of+Fortune&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

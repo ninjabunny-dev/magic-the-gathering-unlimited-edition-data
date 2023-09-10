@@ -1,0 +1,105 @@
+---
+object: card
+id: f7d82f1d-631e-4668-9d10-7bf0ee515267
+oracle_id: d5ed1233-df87-4b90-8918-13922ec95249
+multiverse_ids:
+- 633
+tcgplayer_id: 9147
+cardmarket_id: 5161
+name: Mox Sapphire
+lang: en
+released_at: '1993-12-01'
+uri: https://api.scryfall.com/cards/f7d82f1d-631e-4668-9d10-7bf0ee515267
+scryfall_uri: https://scryfall.com/card/2ed/266/mox-sapphire?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/7/f7d82f1d-631e-4668-9d10-7bf0ee515267.jpg?1559592066
+  normal: https://cards.scryfall.io/normal/front/f/7/f7d82f1d-631e-4668-9d10-7bf0ee515267.jpg?1559592066
+  large: https://cards.scryfall.io/large/front/f/7/f7d82f1d-631e-4668-9d10-7bf0ee515267.jpg?1559592066
+  png: https://cards.scryfall.io/png/front/f/7/f7d82f1d-631e-4668-9d10-7bf0ee515267.png?1559592066
+  art_crop: https://cards.scryfall.io/art_crop/front/f/7/f7d82f1d-631e-4668-9d10-7bf0ee515267.jpg?1559592066
+  border_crop: https://cards.scryfall.io/border_crop/front/f/7/f7d82f1d-631e-4668-9d10-7bf0ee515267.jpg?1559592066
+mana_cost: "{0}"
+cmc: 0.0
+type_line: Artifact
+oracle_text: "{T}: Add {U}."
+colors: []
+color_identity:
+- U
+keywords: []
+produced_mana:
+- U
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: banned
+  pauper: not_legal
+  vintage: restricted
+  penny: not_legal
+  commander: banned
+  oathbreaker: banned
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: banned
+  oldschool: restricted
+  premodern: not_legal
+  predh: banned
+games:
+- paper
+reserved: true
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: cd7694b9-339c-405d-a991-14413d4f6d5c
+set: 2ed
+set_name: Unlimited Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/cd7694b9-339c-405d-a991-14413d4f6d5c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A2ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/2ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/f7d82f1d-631e-4668-9d10-7bf0ee515267/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad5ed1233-df87-4b90-8918-13922ec95249&unique=prints
+collector_number: '266'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Dan Frazier
+artist_ids:
+- '059bba56-5feb-42e4-8c2e-e2f1e6ba11f9'
+illustration_id: e86426aa-f543-4ed0-bdc4-d20a63eacb26
+border_color: white
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+prices:
+  usd: '2749.50'
+  usd_foil: 
+  usd_etched: 
+  eur: '2600.00'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=633
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Mox+Sapphire&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Mox+Sapphire&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Mox+Sapphire
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/9147?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mox+Sapphire&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Mox+Sapphire&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

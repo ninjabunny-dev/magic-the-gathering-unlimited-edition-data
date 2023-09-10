@@ -1,0 +1,118 @@
+---
+object: card
+id: af5534f0-485e-41f2-bcfa-d65c1a9b86bd
+oracle_id: 87a77482-f286-4fb1-b179-85b2095bb768
+multiverse_ids:
+- 640
+tcgplayer_id: 9225
+cardmarket_id: 5123
+name: The Hive
+lang: en
+released_at: '1993-12-01'
+uri: https://api.scryfall.com/cards/af5534f0-485e-41f2-bcfa-d65c1a9b86bd
+scryfall_uri: https://scryfall.com/card/2ed/273/the-hive?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/f/af5534f0-485e-41f2-bcfa-d65c1a9b86bd.jpg?1559592015
+  normal: https://cards.scryfall.io/normal/front/a/f/af5534f0-485e-41f2-bcfa-d65c1a9b86bd.jpg?1559592015
+  large: https://cards.scryfall.io/large/front/a/f/af5534f0-485e-41f2-bcfa-d65c1a9b86bd.jpg?1559592015
+  png: https://cards.scryfall.io/png/front/a/f/af5534f0-485e-41f2-bcfa-d65c1a9b86bd.png?1559592015
+  art_crop: https://cards.scryfall.io/art_crop/front/a/f/af5534f0-485e-41f2-bcfa-d65c1a9b86bd.jpg?1559592015
+  border_crop: https://cards.scryfall.io/border_crop/front/a/f/af5534f0-485e-41f2-bcfa-d65c1a9b86bd.jpg?1559592015
+mana_cost: "{5}"
+cmc: 5.0
+type_line: Artifact
+oracle_text: "{5}, {T}: Create a 1/1 colorless Insect artifact creature token with
+  flying named Wasp. (It can't be blocked except by creatures with flying or reach.)"
+colors: []
+color_identity: []
+keywords: []
+all_parts:
+- object: related_card
+  id: af5534f0-485e-41f2-bcfa-d65c1a9b86bd
+  component: combo_piece
+  name: The Hive
+  type_line: Artifact
+  uri: https://api.scryfall.com/cards/af5534f0-485e-41f2-bcfa-d65c1a9b86bd
+- object: related_card
+  id: '09921372-126f-4c81-b6d8-ea50b1d0eb44'
+  component: token
+  name: Wasp
+  type_line: Token Artifact Creature — Insect
+  uri: https://api.scryfall.com/cards/09921372-126f-4c81-b6d8-ea50b1d0eb44
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: cd7694b9-339c-405d-a991-14413d4f6d5c
+set: 2ed
+set_name: Unlimited Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/cd7694b9-339c-405d-a991-14413d4f6d5c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A2ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/2ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/af5534f0-485e-41f2-bcfa-d65c1a9b86bd/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A87a77482-f286-4fb1-b179-85b2095bb768&unique=prints
+collector_number: '273'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Sandra Everingham
+artist_ids:
+- 8a8ac2c8-84c9-4274-9960-a19a97f0bde5
+illustration_id: 4011b49b-b5aa-495b-bb22-76e55b31ff66
+border_color: white
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 19322
+penny_rank: 12222
+prices:
+  usd: '36.81'
+  usd_foil: 
+  usd_etched: 
+  eur: '13.45'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=640
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=The+Hive&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=The+Hive&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=The+Hive
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/9225?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=The+Hive&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=The+Hive&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

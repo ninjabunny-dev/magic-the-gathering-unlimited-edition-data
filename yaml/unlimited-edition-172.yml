@@ -1,0 +1,112 @@
+---
+object: card
+id: aae6ce4f-d3ba-4b6c-a9c3-9ecbc7a3d5c8
+oracle_id: aff84707-f5f8-4f53-869e-feec78da8d8d
+multiverse_ids:
+- 816
+tcgplayer_id: 9187
+cardmarket_id: 4971
+name: Rock Hydra
+lang: en
+released_at: '1993-12-01'
+uri: https://api.scryfall.com/cards/aae6ce4f-d3ba-4b6c-a9c3-9ecbc7a3d5c8
+scryfall_uri: https://scryfall.com/card/2ed/172/rock-hydra?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/a/aae6ce4f-d3ba-4b6c-a9c3-9ecbc7a3d5c8.jpg?1559591818
+  normal: https://cards.scryfall.io/normal/front/a/a/aae6ce4f-d3ba-4b6c-a9c3-9ecbc7a3d5c8.jpg?1559591818
+  large: https://cards.scryfall.io/large/front/a/a/aae6ce4f-d3ba-4b6c-a9c3-9ecbc7a3d5c8.jpg?1559591818
+  png: https://cards.scryfall.io/png/front/a/a/aae6ce4f-d3ba-4b6c-a9c3-9ecbc7a3d5c8.png?1559591818
+  art_crop: https://cards.scryfall.io/art_crop/front/a/a/aae6ce4f-d3ba-4b6c-a9c3-9ecbc7a3d5c8.jpg?1559591818
+  border_crop: https://cards.scryfall.io/border_crop/front/a/a/aae6ce4f-d3ba-4b6c-a9c3-9ecbc7a3d5c8.jpg?1559591818
+mana_cost: "{X}{R}{R}"
+cmc: 2.0
+type_line: Creature — Hydra
+oracle_text: |-
+  Rock Hydra enters the battlefield with X +1/+1 counters on it.
+  For each 1 damage that would be dealt to Rock Hydra, if it has a +1/+1 counter on it, remove a +1/+1 counter from it and prevent that 1 damage.
+  {R}: Prevent the next 1 damage that would be dealt to Rock Hydra this turn.
+  {R}{R}{R}: Put a +1/+1 counter on Rock Hydra. Activate only during your upkeep.
+power: '0'
+toughness: '0'
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: true
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: cd7694b9-339c-405d-a991-14413d4f6d5c
+set: 2ed
+set_name: Unlimited Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/cd7694b9-339c-405d-a991-14413d4f6d5c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A2ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/2ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/aae6ce4f-d3ba-4b6c-a9c3-9ecbc7a3d5c8/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aaff84707-f5f8-4f53-869e-feec78da8d8d&unique=prints
+collector_number: '172'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jeff A. Menges
+artist_ids:
+- 14a1de4b-1237-4e7b-8868-b71e87c9a46e
+illustration_id: 1d45fef3-f97c-4da8-93a8-a24ca312e3fe
+border_color: white
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 21398
+penny_rank: 12936
+prices:
+  usd: '59.97'
+  usd_foil: 
+  usd_etched: 
+  eur: '25.00'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=816
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Rock+Hydra&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Rock+Hydra&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Rock+Hydra
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/9187?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Rock+Hydra&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Rock+Hydra&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

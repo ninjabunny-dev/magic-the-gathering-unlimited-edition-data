@@ -1,0 +1,106 @@
+---
+object: card
+id: ddb92543-e601-4575-8e17-84ec0b1edd66
+oracle_id: 3f6b2f76-0364-415e-a6a2-e9e5bf31b745
+multiverse_ids:
+- 865
+tcgplayer_id: 9185
+cardmarket_id: 5069
+name: Righteousness
+lang: en
+released_at: '1993-12-01'
+uri: https://api.scryfall.com/cards/ddb92543-e601-4575-8e17-84ec0b1edd66
+scryfall_uri: https://scryfall.com/card/2ed/37/righteousness?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/d/ddb92543-e601-4575-8e17-84ec0b1edd66.jpg?1559592048
+  normal: https://cards.scryfall.io/normal/front/d/d/ddb92543-e601-4575-8e17-84ec0b1edd66.jpg?1559592048
+  large: https://cards.scryfall.io/large/front/d/d/ddb92543-e601-4575-8e17-84ec0b1edd66.jpg?1559592048
+  png: https://cards.scryfall.io/png/front/d/d/ddb92543-e601-4575-8e17-84ec0b1edd66.png?1559592048
+  art_crop: https://cards.scryfall.io/art_crop/front/d/d/ddb92543-e601-4575-8e17-84ec0b1edd66.jpg?1559592048
+  border_crop: https://cards.scryfall.io/border_crop/front/d/d/ddb92543-e601-4575-8e17-84ec0b1edd66.jpg?1559592048
+mana_cost: "{W}"
+cmc: 1.0
+type_line: Instant
+oracle_text: Target blocking creature gets +7/+7 until end of turn.
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: cd7694b9-339c-405d-a991-14413d4f6d5c
+set: 2ed
+set_name: Unlimited Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/cd7694b9-339c-405d-a991-14413d4f6d5c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A2ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/2ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/ddb92543-e601-4575-8e17-84ec0b1edd66/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3f6b2f76-0364-415e-a6a2-e9e5bf31b745&unique=prints
+collector_number: '37'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Douglas Shuler
+artist_ids:
+- a9ddb513-51c7-455c-ab8f-5b90aae9f75b
+illustration_id: a12acdcf-b38b-45b5-a1d6-2d7788db8514
+border_color: white
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 12789
+penny_rank: 12114
+prices:
+  usd: '79.85'
+  usd_foil: 
+  usd_etched: 
+  eur: '17.99'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=865
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Righteousness&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Righteousness&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Righteousness
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/9185?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Righteousness&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Righteousness&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

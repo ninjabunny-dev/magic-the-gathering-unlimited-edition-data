@@ -1,0 +1,110 @@
+---
+object: card
+id: a6b2fe92-0521-4a85-9a8d-4203b0e0e118
+oracle_id: caf3c6ec-d17e-497c-8fe7-6f818ce93f96
+multiverse_ids:
+- 787
+tcgplayer_id: 9043
+cardmarket_id: 4913
+name: Dwarven Demolition Team
+lang: en
+released_at: '1993-12-01'
+uri: https://api.scryfall.com/cards/a6b2fe92-0521-4a85-9a8d-4203b0e0e118
+scryfall_uri: https://scryfall.com/card/2ed/143/dwarven-demolition-team?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/6/a6b2fe92-0521-4a85-9a8d-4203b0e0e118.jpg?1559592243
+  normal: https://cards.scryfall.io/normal/front/a/6/a6b2fe92-0521-4a85-9a8d-4203b0e0e118.jpg?1559592243
+  large: https://cards.scryfall.io/large/front/a/6/a6b2fe92-0521-4a85-9a8d-4203b0e0e118.jpg?1559592243
+  png: https://cards.scryfall.io/png/front/a/6/a6b2fe92-0521-4a85-9a8d-4203b0e0e118.png?1559592243
+  art_crop: https://cards.scryfall.io/art_crop/front/a/6/a6b2fe92-0521-4a85-9a8d-4203b0e0e118.jpg?1559592243
+  border_crop: https://cards.scryfall.io/border_crop/front/a/6/a6b2fe92-0521-4a85-9a8d-4203b0e0e118.jpg?1559592243
+mana_cost: "{2}{R}"
+cmc: 3.0
+type_line: Creature — Dwarf
+oracle_text: "{T}: Destroy target Wall."
+power: '1'
+toughness: '1'
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: cd7694b9-339c-405d-a991-14413d4f6d5c
+set: 2ed
+set_name: Unlimited Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/cd7694b9-339c-405d-a991-14413d4f6d5c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A2ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/2ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a6b2fe92-0521-4a85-9a8d-4203b0e0e118/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acaf3c6ec-d17e-497c-8fe7-6f818ce93f96&unique=prints
+collector_number: '143'
+digital: false
+rarity: uncommon
+flavor_text: Foolishly, Najib retreated to his castle at El-Abar; the next morning
+  he was dead. In just one night, the dwarven forces had reduced the mighty walls
+  to mere rubble.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Kev Brockschmidt
+artist_ids:
+- 6c0e6eb2-d659-49c4-9df9-ca4007b34719
+illustration_id: 72e3d295-6f69-45de-a34c-06ed995cacfd
+border_color: white
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 21788
+prices:
+  usd: '7.05'
+  usd_foil: 
+  usd_etched: 
+  eur: '4.40'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=787
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Dwarven+Demolition+Team&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Dwarven+Demolition+Team&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Dwarven+Demolition+Team
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/9043?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Dwarven+Demolition+Team&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Dwarven+Demolition+Team&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

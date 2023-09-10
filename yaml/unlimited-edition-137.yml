@@ -1,0 +1,110 @@
+---
+object: card
+id: 239c8547-207b-41d1-a2be-8825bfc6ef7f
+oracle_id: e8ad3a77-b293-4d69-b080-27ca9f95d443
+multiverse_ids:
+- 689
+tcgplayer_id: 9271
+cardmarket_id: 4717
+name: Word of Command
+lang: en
+released_at: '1993-12-01'
+uri: https://api.scryfall.com/cards/239c8547-207b-41d1-a2be-8825bfc6ef7f
+scryfall_uri: https://scryfall.com/card/2ed/137/word-of-command?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/3/239c8547-207b-41d1-a2be-8825bfc6ef7f.jpg?1559591975
+  normal: https://cards.scryfall.io/normal/front/2/3/239c8547-207b-41d1-a2be-8825bfc6ef7f.jpg?1559591975
+  large: https://cards.scryfall.io/large/front/2/3/239c8547-207b-41d1-a2be-8825bfc6ef7f.jpg?1559591975
+  png: https://cards.scryfall.io/png/front/2/3/239c8547-207b-41d1-a2be-8825bfc6ef7f.png?1559591975
+  art_crop: https://cards.scryfall.io/art_crop/front/2/3/239c8547-207b-41d1-a2be-8825bfc6ef7f.jpg?1559591975
+  border_crop: https://cards.scryfall.io/border_crop/front/2/3/239c8547-207b-41d1-a2be-8825bfc6ef7f.jpg?1559591975
+mana_cost: "{B}{B}"
+cmc: 2.0
+type_line: Instant
+oracle_text: Look at target opponent's hand and choose a card from it. You control
+  that player until Word of Command finishes resolving. The player plays that card
+  if able. While doing so, the player can activate mana abilities only if they're
+  from lands that player controls and only if mana they produce is spent to activate
+  other mana abilities of lands the player controls and/or to play that card. If the
+  chosen card is cast as a spell, you control the player while that spell is resolving.
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: true
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: cd7694b9-339c-405d-a991-14413d4f6d5c
+set: 2ed
+set_name: Unlimited Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/cd7694b9-339c-405d-a991-14413d4f6d5c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A2ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/2ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/239c8547-207b-41d1-a2be-8825bfc6ef7f/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae8ad3a77-b293-4d69-b080-27ca9f95d443&unique=prints
+collector_number: '137'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jesper Myrfors
+artist_ids:
+- c011318e-8503-48c1-a990-46e50aff48a0
+illustration_id: 58147ab5-fb67-4102-9b17-64adac0a4482
+border_color: white
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 16869
+prices:
+  usd: '350.00'
+  usd_foil: 
+  usd_etched: 
+  eur: '139.99'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=689
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Word+of+Command&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Word+of+Command&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Word+of+Command
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/9271?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Word+of+Command&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Word+of+Command&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

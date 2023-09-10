@@ -1,0 +1,110 @@
+---
+object: card
+id: 4cfb5638-4502-44ed-b54c-27276d45d1ad
+oracle_id: 5e961d15-5972-4e4b-9385-1cd7cd7c6bbe
+multiverse_ids:
+- 718
+tcgplayer_id: 9173
+cardmarket_id: 4775
+name: Prodigal Sorcerer
+lang: en
+released_at: '1993-12-01'
+uri: https://api.scryfall.com/cards/4cfb5638-4502-44ed-b54c-27276d45d1ad
+scryfall_uri: https://scryfall.com/card/2ed/74/prodigal-sorcerer?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/c/4cfb5638-4502-44ed-b54c-27276d45d1ad.jpg?1621595972
+  normal: https://cards.scryfall.io/normal/front/4/c/4cfb5638-4502-44ed-b54c-27276d45d1ad.jpg?1621595972
+  large: https://cards.scryfall.io/large/front/4/c/4cfb5638-4502-44ed-b54c-27276d45d1ad.jpg?1621595972
+  png: https://cards.scryfall.io/png/front/4/c/4cfb5638-4502-44ed-b54c-27276d45d1ad.png?1621595972
+  art_crop: https://cards.scryfall.io/art_crop/front/4/c/4cfb5638-4502-44ed-b54c-27276d45d1ad.jpg?1621595972
+  border_crop: https://cards.scryfall.io/border_crop/front/4/c/4cfb5638-4502-44ed-b54c-27276d45d1ad.jpg?1621595972
+mana_cost: "{2}{U}"
+cmc: 3.0
+type_line: Creature — Human Wizard
+oracle_text: "{T}: Prodigal Sorcerer deals 1 damage to any target."
+power: '1'
+toughness: '1'
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: cd7694b9-339c-405d-a991-14413d4f6d5c
+set: 2ed
+set_name: Unlimited Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/cd7694b9-339c-405d-a991-14413d4f6d5c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A2ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/2ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/4cfb5638-4502-44ed-b54c-27276d45d1ad/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5e961d15-5972-4e4b-9385-1cd7cd7c6bbe&unique=prints
+collector_number: '74'
+digital: false
+rarity: common
+flavor_text: Occasionally a member of the Institute of Arcane Study acquires a taste
+  for worldly pleasures. Seldom do they have trouble finding employment.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Douglas Shuler
+artist_ids:
+- a9ddb513-51c7-455c-ab8f-5b90aae9f75b
+illustration_id: 36cdffe3-29e6-4121-8a65-106217c4e9df
+border_color: white
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 7131
+penny_rank: 10909
+prices:
+  usd: '1.31'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.99'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=718
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Prodigal+Sorcerer&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Prodigal+Sorcerer&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Prodigal+Sorcerer
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/9173?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Prodigal+Sorcerer&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Prodigal+Sorcerer&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

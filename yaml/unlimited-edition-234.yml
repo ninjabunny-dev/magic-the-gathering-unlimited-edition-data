@@ -1,0 +1,105 @@
+---
+object: card
+id: 5159a2cd-036c-482e-9b5a-b595391deef3
+oracle_id: de7839fb-7040-48ab-a6d4-d1952972943d
+multiverse_ids:
+- 601
+tcgplayer_id: 8990
+cardmarket_id: 5095
+name: Black Vise
+lang: en
+released_at: '1993-12-01'
+uri: https://api.scryfall.com/cards/5159a2cd-036c-482e-9b5a-b595391deef3
+scryfall_uri: https://scryfall.com/card/2ed/234/black-vise?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/1/5159a2cd-036c-482e-9b5a-b595391deef3.jpg?1559592131
+  normal: https://cards.scryfall.io/normal/front/5/1/5159a2cd-036c-482e-9b5a-b595391deef3.jpg?1559592131
+  large: https://cards.scryfall.io/large/front/5/1/5159a2cd-036c-482e-9b5a-b595391deef3.jpg?1559592131
+  png: https://cards.scryfall.io/png/front/5/1/5159a2cd-036c-482e-9b5a-b595391deef3.png?1559592131
+  art_crop: https://cards.scryfall.io/art_crop/front/5/1/5159a2cd-036c-482e-9b5a-b595391deef3.jpg?1559592131
+  border_crop: https://cards.scryfall.io/border_crop/front/5/1/5159a2cd-036c-482e-9b5a-b595391deef3.jpg?1559592131
+mana_cost: "{1}"
+cmc: 1.0
+type_line: Artifact
+oracle_text: |-
+  As Black Vise enters the battlefield, choose an opponent.
+  At the beginning of the chosen player's upkeep, Black Vise deals X damage to that player, where X is the number of cards in their hand minus 4.
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: cd7694b9-339c-405d-a991-14413d4f6d5c
+set: 2ed
+set_name: Unlimited Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/cd7694b9-339c-405d-a991-14413d4f6d5c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A2ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/2ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/5159a2cd-036c-482e-9b5a-b595391deef3/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ade7839fb-7040-48ab-a6d4-d1952972943d&unique=prints
+collector_number: '234'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Richard Thomas
+artist_ids:
+- 596b3aac-b331-4e1e-ae41-9ec2d3b653e1
+illustration_id: 2e142a21-2fdb-400c-a5d5-36c65c9bf0f6
+border_color: white
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 9515
+prices:
+  usd: '21.69'
+  usd_foil: 
+  usd_etched: 
+  eur: '17.95'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=601
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Black+Vise&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Black+Vise&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Black+Vise
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/8990?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Black+Vise&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Black+Vise&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

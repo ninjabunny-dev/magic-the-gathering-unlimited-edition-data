@@ -1,0 +1,109 @@
+---
+object: card
+id: 8d693da0-039d-462b-a5cb-d2bb179df65e
+oracle_id: d29078c0-1fb8-437a-81d1-bb319f646941
+multiverse_ids:
+- 870
+tcgplayer_id: 9246
+cardmarket_id: 5079
+name: Veteran Bodyguard
+lang: en
+released_at: '1993-12-01'
+uri: https://api.scryfall.com/cards/8d693da0-039d-462b-a5cb-d2bb179df65e
+scryfall_uri: https://scryfall.com/card/2ed/42/veteran-bodyguard?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/d/8d693da0-039d-462b-a5cb-d2bb179df65e.jpg?1559591994
+  normal: https://cards.scryfall.io/normal/front/8/d/8d693da0-039d-462b-a5cb-d2bb179df65e.jpg?1559591994
+  large: https://cards.scryfall.io/large/front/8/d/8d693da0-039d-462b-a5cb-d2bb179df65e.jpg?1559591994
+  png: https://cards.scryfall.io/png/front/8/d/8d693da0-039d-462b-a5cb-d2bb179df65e.png?1559591994
+  art_crop: https://cards.scryfall.io/art_crop/front/8/d/8d693da0-039d-462b-a5cb-d2bb179df65e.jpg?1559591994
+  border_crop: https://cards.scryfall.io/border_crop/front/8/d/8d693da0-039d-462b-a5cb-d2bb179df65e.jpg?1559591994
+mana_cost: "{3}{W}{W}"
+cmc: 5.0
+type_line: Creature — Human
+oracle_text: As long as Veteran Bodyguard is untapped, all damage that would be dealt
+  to you by unblocked creatures is dealt to Veteran Bodyguard instead.
+power: '2'
+toughness: '5'
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: true
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: cd7694b9-339c-405d-a991-14413d4f6d5c
+set: 2ed
+set_name: Unlimited Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/cd7694b9-339c-405d-a991-14413d4f6d5c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A2ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/2ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/8d693da0-039d-462b-a5cb-d2bb179df65e/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad29078c0-1fb8-437a-81d1-bb319f646941&unique=prints
+collector_number: '42'
+digital: false
+rarity: rare
+flavor_text: Good bodyguards are hard to find, mainly because they don't live long.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Douglas Shuler
+artist_ids:
+- a9ddb513-51c7-455c-ab8f-5b90aae9f75b
+illustration_id: 6e32d8d4-37f7-4cad-8b6c-368dc0a9bfb5
+border_color: white
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 20785
+prices:
+  usd: '38.21'
+  usd_foil: 
+  usd_etched: 
+  eur: '19.70'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=870
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Veteran+Bodyguard&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Veteran+Bodyguard&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Veteran+Bodyguard
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/9246?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Veteran+Bodyguard&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Veteran+Bodyguard&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
